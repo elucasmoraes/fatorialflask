@@ -1,0 +1,3 @@
+[submodule "site_teste"]
+	path = site_teste
+	url = gitlab@gitlab.globoi.com:edson.lucas/embriao.git
